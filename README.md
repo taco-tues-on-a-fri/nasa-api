@@ -1,52 +1,22 @@
-### NASA API
-Project exploring requesting data retrieved from NASA's API
+NASA API
+========
+Rebuilt repository originally created on 02-28-19
+------------------
 
-- Inspired by the tutorial, (How to Connect to an API with JavaScript)[https://www.taniarascia.com/how-to-connect-to-an-api-with-javascript/] by Tania Rascia.
-- Describe very briefly but clearly what the project does.
-- State if it is out-of-the-box user-friendly, so it’s clear to the user.
-- List its most useful/innovative/noteworthy features.
-- State its goals/what problem(s) it solves.
-- Note and briefly describe any key concepts (technical, philosophical, or both) important to the user’s understanding.
-- Link to any supplementary blog posts or project main pages.
-- Note its development status.
-- Include badges.
-- If possible, include screenshots and demo videos.
+### Project exploring requesting data retrieved from NASA's API.
 
-### Core Technical Concepts/Inspiration
+- Inspired by the tutorial - [How to Connect to an API with JavaScript](https://www.taniarascia.com/how-to-connect-to-an-api-with-javascript/) by Tania Rascia.
+- Send request to NASA's API for Curiosity rover dataset of images.
+- Filter out image urls from returned JSON.  
+- Manipulate the DOM from within  `main.js` to create cards for each image url.
+- Title the cards from a substring text of the url.
 
-- Why does it exist?
-- Frame your project for the potential user. 
-- Compare/contrast your project with other, similar projects so the user knows how it is different from those projects.
-- Highlight the technical concepts that your project demonstrates or supports. Keep it very brief.
-- Keep it useful.
+### Getting Started
+If you would like to try it:
+- You will need a NASA API key.
+- Add `env.js` to `.gitignore` .
+- Create `env.js` file using `env.example` for reference.
+- Add your fresh new NASA API key to `api_key` inside `env.js` .
+- Bask in glorious Mars photos.
 
-### Getting Started/Requirements/Prerequisites/Dependencies
-Include any essential instructions for:
-- Getting it
-- Installing It
-- Configuring It
-- Running it
-
-### More Specific Topics (+ sample sub-categories)
-- Versioning: Services, APIs, Systems
-- Common Error Messages/related details
-- Tests
-- Is it a Swift project? Please take a look at Mattt Thompson & Nate Cook's [Swift documentation](http://nshipster.com/swift-documentation/) guide
-
-### Contributing
-- Contributor Guidelines
-- Code Style/Requirements
-- Format for commit messages
-- Thank you (name contributors)
-
-### TODO
-- Next steps
-- Features planned
-- Known bugs (shortlist)
-
-### Contact
-- Email address
-- Google Group/mailing list (if applicable)
-- IRC or Slack (if applicable)
-
-### License
+#### <3 taco-tues-on-a-fri
