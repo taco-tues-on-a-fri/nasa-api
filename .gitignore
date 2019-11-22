@@ -14,7 +14,7 @@ notes.*
 notes/
 template.*
 templates/
-vscode/
+.vscode/
 
 # Build results
 [Dd]ebug/
