@@ -1,7 +1,7 @@
 # Custom
 *.code-workspace
 *.env
-env.*
+env.js
 *.log
 backup.*
 backup/
