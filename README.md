@@ -11,6 +11,8 @@ Rebuilt repository originally created on 02-28-19
 - Manipulate the DOM from within  `main.js` to create cards for each image url.
 - Title the cards from a substring text of the url.
 
+![Screenshot01](src/Nasa-API-Screenshot-01.png)
+![Screenshot02](src/Nasa-API-Screenshot-02.png)
 ### Getting Started
 If you would like to try it:
 - You will need a NASA API key.
