@@ -1,6 +1,6 @@
 const app = document.getElementById('root');
 const logo = document.createElement('img');
-logo.src = 'msl.png';
+logo.src = 'src/msl.png';
 
 const container = document.createElement('div');
 container.setAttribute('class', 'container');
