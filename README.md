@@ -21,4 +21,4 @@ If you would like to try it:
 - Add your fresh new NASA API key to `api_key` inside `env.js` .
 - Bask in glorious Mars photos.
 
-#### -taco-tues-on-a-fri
+#### 🌮taco-tues-on-a-fri
