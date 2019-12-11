@@ -3,8 +3,9 @@ NASA API
 Rebuilt repository originally created on 02-28-19
 ------------------
 
-### Requests Mars rover images from NASA's API and creates cards for each image.
+## Requests Mars Curiosity rover images from NASA's API and creates cards for each image.
 
+### Overview:
 - Inspired by the tutorial - [How to Connect to an API with JavaScript](https://www.taniarascia.com/how-to-connect-to-an-api-with-javascript/) by Tania Rascia.
 - Send request to NASA's API for Curiosity rover dataset of images.
 - Filter out image urls from returned JSON.  
@@ -13,7 +14,8 @@ Rebuilt repository originally created on 02-28-19
 
 ![Screenshot01](src/Nasa-API-Screenshot-01.png)
 ![Screenshot02](src/Nasa-API-Screenshot-02.png)
-### Getting Started
+
+### How to use:
 If you would like to try it:
 - You will need a NASA API key.
 - Add `env.js` to `.gitignore`.
